@@ -21,9 +21,14 @@
 <img src="https://github.com/user-attachments/assets/b80a541f-bdd5-4f30-bc63-fd9ace5fc60a" width="400">
 <img src="https://github.com/user-attachments/assets/002aa199-0a5b-4356-9aec-41cc6ae9ec83" width="400">
 
-This fish will starve to death if you don't feed it for 24 hours, so it is recommended to bookmark it and check it frequently.
+※24時間なにもあげないと餓死するため、ブックマークやショートカットに入れてこまめに様子を見ることをお勧めします。
+ローカル保存されてるためシークレットタブではセーブされなかったり、キャッシュ削除でデータが消えてしまいます。
+最短５日で大人になりますが７日以上かかるときもあります。気長に育成おねがいします。
+This fish will starve to death if you don't feed it for 20～24 hours, so it is recommended to bookmark it and check it frequently.
 Warning:
 This game uses Local Storage to save your progress.
 Save data will be lost if you clear your browser cache.
 Progress is not saved when playing in Private/Incognito mode.
 Please play in a standard browser window to keep your fish alive!
+Fish can become adults in as little as five days, but it can sometimes take more than seven days. Please be patient when raising them.
+
