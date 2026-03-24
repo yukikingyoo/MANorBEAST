@@ -2,13 +2,13 @@
 人工魚育成キット
 
 ## スクリーンショット
-<img src="https://github.com/user-attachments/assets/2339deca-337e-4bdd-a351-6b58f70d8521" width="300">
+<img src="https://github.com/user-attachments/assets/2339deca-337e-4bdd-a351-6b58f70d8521" width="400">
+<img src="https://github.com/user-attachments/assets/395900f5-15cf-495b-8503-41238f10c00f" width="400">
+<img src="https://github.com/user-attachments/assets/0e3bb60f-ff2b-4d66-9132-b194e6bd8a7c" width="400">
+<img src="https://github.com/user-attachments/assets/5301453b-9a51-4a73-9deb-f05bce4200b1" width="400">
+<img src="https://github.com/user-attachments/assets/b1a4f440-e81d-4402-8004-c02c41cfe8e9" width="400">
+<img src="https://github.com/user-attachments/assets/ca74368b-148c-4b12-8e0e-683e00e2aaf6" width="400">
 
-![H7L9PZcK2PjSiZn4OIElZfwP](https://github.com/user-attachments/assets/395900f5-15cf-495b-8503-41238f10c00f)
-![YWdhjGH2qNNKskDbsX7pXUk8](https://github.com/user-attachments/assets/0e3bb60f-ff2b-4d66-9132-b194e6bd8a7c)
-![nXsJ7vzsWK5sbCYSgJ4Ru18j](https://github.com/user-attachments/assets/5301453b-9a51-4a73-9deb-f05bce4200b1)
-![tqk97WB0HUFb4RSSW3mRfnmX](https://github.com/user-attachments/assets/b1a4f440-e81d-4402-8004-c02c41cfe8e9)
-![t4obnLdozI3NsgRO73uBkMaZ](https://github.com/user-attachments/assets/ca74368b-148c-4b12-8e0e-683e00e2aaf6)
 
 
 ## ゲームの遊び方
