@@ -1,5 +1,11 @@
 # 作品名：MAN or BEAST
-人工魚育成キット
+人工魚育成キット<br>
+こちらから遊べます↓<br>
+**Recommended　Normal Mode (Real Time)推奨**
+https://yukikingyoo.github.io/MANorBEAST/
+
+**Speed Mode (For people in a hurry　忙しい人用急成長モード)**
+https://yukikingyoo.github.io/MANorBEASTSPEED/
 
 ## スクリーンショット
 <img src="https://github.com/user-attachments/assets/2339deca-337e-4bdd-a351-6b58f70d8521" width="400">
