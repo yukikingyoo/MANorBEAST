@@ -2,7 +2,8 @@
 人工魚育成キット
 
 ## スクリーンショット
-<img src="91a426c8-f1ad-4972-a3ec-5b4ff6024a3e" width="300">
+![91a426c8-f1ad-4972-a3ec-5b4ff6024a3e](https://github.com/user-attachments/assets/2339deca-337e-4bdd-a351-6b58f70d8521)
+
 ![H7L9PZcK2PjSiZn4OIElZfwP](https://github.com/user-attachments/assets/395900f5-15cf-495b-8503-41238f10c00f)
 ![YWdhjGH2qNNKskDbsX7pXUk8](https://github.com/user-attachments/assets/0e3bb60f-ff2b-4d66-9132-b194e6bd8a7c)
 ![nXsJ7vzsWK5sbCYSgJ4Ru18j](https://github.com/user-attachments/assets/5301453b-9a51-4a73-9deb-f05bce4200b1)
