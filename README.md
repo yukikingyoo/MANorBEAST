@@ -23,7 +23,8 @@
 
 ※24時間なにもあげないと餓死するため、ブックマークやショートカットに入れてこまめに様子を見ることをお勧めします。
 ローカル保存されてるためシークレットタブではセーブされなかったり、キャッシュ削除でデータが消えてしまいます。
-最短５日で大人になりますが７日以上かかるときもあります。気長に育成おねがいします。
+最短５日で大人になりますが７日以上かかるときもあります。気長に育成おねがいします。<br>
+
 This fish will starve to death if you don't feed it for 20～24 hours, so it is recommended to bookmark it and check it frequently.
 Warning:
 This game uses Local Storage to save your progress.
